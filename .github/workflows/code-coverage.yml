@@ -1,4 +1,5 @@
-name: "Code Quality and Coverage"
+---
+name: "My Workflow"
 
 on:
   push:
