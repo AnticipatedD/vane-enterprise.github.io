@@ -1,0 +1,21 @@
+aiofiles==25.1.0
+aiohappyeyeballs==2.7.1
+aiohttp==3.14.3
+aiosignal==1.4.0
+attrs==26.1.0
+coverage==7.16.1
+frozenlist==1.8.0
+idna==3.20
+iniconfig==2.3.0
+multidict==6.9.1
+packaging==26.3
+pluggy==1.6.0
+propcache==0.5.4
+Pygments==2.21.0
+pytest==9.1.1
+pytest-cov==7.1.0
+-e git+https://github.com/AnticipatedD/speechmatics-python-sdk.git@98eac9f4f4e9b7f27c6d5a7316a9c36b97a9f47c#egg=speechmatics_batch&subdirectory=sdk/batch
+-e git+https://github.com/AnticipatedD/speechmatics-python-sdk.git@98eac9f4f4e9b7f27c6d5a7316a9c36b97a9f47c#egg=speechmatics_rt&subdirectory=sdk/rt
+typing_extensions==4.16.0
+websockets==17.1
+yarl==1.25.1
